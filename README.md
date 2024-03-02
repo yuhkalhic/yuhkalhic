@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKHC&hide=HTML" alt="Top Langs" />
 <img align="right" src="https://komarev.com/ghpvc/?username=YKHC" alt="YKHC" />
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
+
 
 
 
