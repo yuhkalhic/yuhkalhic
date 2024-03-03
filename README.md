@@ -9,7 +9,10 @@
     </a>
 </div>
 
-![Coding Penguin](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Penguin">
+</p>
+
 
 
 <p align="center">
