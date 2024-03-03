@@ -5,10 +5,13 @@
     </a>
   </div>
 
-<p align = "center">
-  ![YKHC](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=ambient_gradient&count_private=true&include_all_commits=true)
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKHC&hide=HTML" alt="Top Langs" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="YKHC's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKHC&hide=HTML" alt="Top Langs" />
 </p>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=YKHC" alt="YKHC" />
 
