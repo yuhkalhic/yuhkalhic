@@ -9,6 +9,8 @@
     </a>
 </div>
 
+![Coding Penguin](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YKHC&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="YKHC's GitHub Stats" />
