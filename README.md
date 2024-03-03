@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="YKHC's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YKHC&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="YKHC's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YKHC&hide=HTML" alt="Top Langs" />
 </p>
 
