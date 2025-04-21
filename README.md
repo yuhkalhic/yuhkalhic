@@ -3,10 +3,6 @@
     <img src="https://komarev.com/ghpvc/?username=yuhkalhic" alt="yuhkalhic's profile views" />
     <!-- Giphy动态图 -->
     <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-    <!-- Typing SVG -->
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);yuhkalhic &center=true&size=27" alt="Typing SVG" />
-    </a>
 </div>
 
 <p align="center">
